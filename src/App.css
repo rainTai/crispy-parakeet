@@ -27,6 +27,13 @@
 .App-link {
   color: #61dafb;
 }
+.Comment {
+  color: rgb(97, 218, 251);
+  font-size: 36px;
+}
+.Avatar {
+  animation: App-logo-spin infinite 20s linear;
+}
 
 @keyframes App-logo-spin {
   from {
